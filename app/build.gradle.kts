@@ -71,6 +71,7 @@ dependencies {
 
     // OkHttp3
     implementation("com.squareup.okhttp3:okhttp:4.12.0")
+    implementation("com.squareup.okhttp3:logging-interceptor:4.12.0")
 
     // viewmodel
     implementation("androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7")
